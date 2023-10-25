@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JENIS_SDA_Granit",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "JENIS_SDA": "Granit", "LOKASI": null }, "geometry": { "type": "Point", "coordinates": [ 100.392430569991703, -0.60951021783253 ] } },
+{ "type": "Feature", "properties": { "JENIS_SDA": "Granit", "LOKASI": "Flores" }, "geometry": { "type": "Point", "coordinates": [ 122.812514749990001, -8.3863174185328 ] } }
+]
+}

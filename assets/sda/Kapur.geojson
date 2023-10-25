@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JENIS_SDA_Kapur",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "JENIS_SDA": "Kapur", "LOKASI": null }, "geometry": { "type": "Point", "coordinates": [ 102.489266527213275, -3.411061893487966 ] } },
+{ "type": "Feature", "properties": { "JENIS_SDA": "Kapur", "LOKASI": "Jepara" }, "geometry": { "type": "Point", "coordinates": [ 110.723408017754991, -6.735073535408799 ] } }
+]
+}

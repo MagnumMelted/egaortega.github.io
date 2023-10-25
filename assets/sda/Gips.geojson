@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JENIS_SDA_Gips",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "JENIS_SDA": "Gips", "LOKASI": null }, "geometry": { "type": "Point", "coordinates": [ 117.318157338525339, -8.583013298493054 ] } },
+{ "type": "Feature", "properties": { "JENIS_SDA": "Gips", "LOKASI": "Bolango" }, "geometry": { "type": "Point", "coordinates": [ 122.987886271320676, 0.729621833598706 ] } }
+]
+}

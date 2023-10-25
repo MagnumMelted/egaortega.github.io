@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "JENIS_SDA_Bauksit",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "JENIS_SDA": "Bauksit", "LOKASI": "Bintan" }, "geometry": { "type": "Point", "coordinates": [ 104.478703877925, 1.0407840233024 ] } },
+{ "type": "Feature", "properties": { "JENIS_SDA": "Bauksit", "LOKASI": null }, "geometry": { "type": "Point", "coordinates": [ 117.488504169237501, 0.4603467795376 ] } },
+{ "type": "Feature", "properties": { "JENIS_SDA": "Bauksit", "LOKASI": "Singkawang" }, "geometry": { "type": "Point", "coordinates": [ 109.002111363827495, 0.7605729401056 ] } }
+]
+}

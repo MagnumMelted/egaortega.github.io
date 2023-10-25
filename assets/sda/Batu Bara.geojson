@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "JENIS_SDA_Batu Bara",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "JENIS_SDA": "Batu Bara", "LOKASI": null }, "geometry": { "type": "Point", "coordinates": [ 100.854091051930226, -0.695969645441204 ] } },
+{ "type": "Feature", "properties": { "JENIS_SDA": "Batu Bara", "LOKASI": "Berau" }, "geometry": { "type": "Point", "coordinates": [ 117.608594633464989, 1.8714097342072 ] } },
+{ "type": "Feature", "properties": { "JENIS_SDA": "Batu Bara", "LOKASI": null }, "geometry": { "type": "Point", "coordinates": [ 117.418808541006811, -0.210296781911581 ] } },
+{ "type": "Feature", "properties": { "JENIS_SDA": "Batu Bara", "LOKASI": "Tanggamus" }, "geometry": { "type": "Point", "coordinates": [ 104.671107488536023, -5.201163470902102 ] } },
+{ "type": "Feature", "properties": { "JENIS_SDA": "Batu Bara", "LOKASI": null }, "geometry": { "type": "Point", "coordinates": [ 103.701647359943905, -3.882711754075259 ] } },
+{ "type": "Feature", "properties": { "JENIS_SDA": "Batu Bara", "LOKASI": null }, "geometry": { "type": "Point", "coordinates": [ 115.465750003785473, -3.4921690511293 ] } }
+]
+}

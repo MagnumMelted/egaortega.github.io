@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "JENIS_SDA_Semen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "JENIS_SDA": "Semen", "LOKASI": "Palaju" }, "geometry": { "type": "Point", "coordinates": [ 104.820128498133172, -3.163831283183534 ] } },
+{ "type": "Feature", "properties": { "JENIS_SDA": "Semen", "LOKASI": "Bogor" }, "geometry": { "type": "Point", "coordinates": [ 106.880513162474998, -6.50490014564 ] } },
+{ "type": "Feature", "properties": { "JENIS_SDA": "Semen", "LOKASI": null }, "geometry": { "type": "Point", "coordinates": [ 112.573960413685413, -6.98638501709543 ] } },
+{ "type": "Feature", "properties": { "JENIS_SDA": "Semen", "LOKASI": "Toraja" }, "geometry": { "type": "Point", "coordinates": [ 119.870311230247125, -3.064240463647115 ] } }
+]
+}
